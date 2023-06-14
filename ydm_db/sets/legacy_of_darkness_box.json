@@ -1,0 +1,33 @@
+{
+  "name": "Legacy of Darkness (Box)",
+  "code": "LOD_B",
+  "type": "Box",
+  "date": "06-06-2003", "image":"https://commondatastorage.googleapis.com/images.pricecharting.com/36516dabf58a7923bcc4718d5d3a84976141d19fe03d9c1dc997c4b38bc0c8f6/240.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD",
+    "LOD"
+  ]
+}
