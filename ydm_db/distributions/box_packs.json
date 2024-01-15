@@ -1,4 +1,7 @@
 {
+  "name": "box_pack",
+  "pulls": [
+{
       "weight": 1,
       "entries": [
         {
