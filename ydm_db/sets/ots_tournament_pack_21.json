@@ -1,11 +1,11 @@
 {
   "name": "OTS Tournament Pack 21",
   "code": "OP21",
-  "type": "",
-  "date": "",
-  "image": "",
+  "type": "OTS Tournament Pack",
+  "date": "8-2-2023",
+  "image": "https://ms.yugipedia.com//2/26/OP21-BoosterEN.png",
   "pull_type": "distribution",
-  "distribution": "",
+  "distribution": "ots_tournament_pack",
   "cards": [
     {
       "id": 76145933,

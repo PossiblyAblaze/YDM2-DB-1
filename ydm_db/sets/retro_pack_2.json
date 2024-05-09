@@ -1,11 +1,11 @@
 {
   "name": "Retro Pack 2",
   "code": "RP02",
-  "type": "",
-  "date": "",
-  "image": "",
+  "type": "Booster Pack",
+  "date": "28-7-2009",
+  "image": "https://ms.yugipedia.com//thumb/5/53/RP02-BoosterEN.png/257px-RP02-BoosterEN.png",
   "pull_type": "distribution",
-  "distribution": "",
+  "distribution": "booster_pack_old",
   "cards": [
     {
       "id": 44330098,

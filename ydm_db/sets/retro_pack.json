@@ -1,11 +1,11 @@
 {
   "name": "Retro Pack",
   "code": "RP01",
-  "type": "",
-  "date": "",
-  "image": "",
+  "type": "Booster Pack",
+  "date": "8-7-2008",
+  "image": "https://ms.yugipedia.com//e/e9/RP01-BoosterEU.png",
   "pull_type": "distribution",
-  "distribution": "",
+  "distribution": "booster_pack_old",
   "cards": [
     {
       "id": 23995346,
