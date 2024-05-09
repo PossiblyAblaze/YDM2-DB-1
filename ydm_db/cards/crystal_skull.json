@@ -3,7 +3,7 @@
   "name": "Crystal Skull",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Summoned: Take 1000 damage, then change this card to Defense Position. During the End Phase, if you took no effect damage this turn: You can take 1 Rock monster with 0 ATK from your Deck, and either add it to your hand or Special Summon it. You can only use this effect of \"Crystal Skull\" once per turn.",
+  "text": "If this card is Summoned: Take 1000 damage, then change this card to Defense Position. During the End Phase, if you did not take effect damage this turn: You can either add to your hand or Special Summon 1 Rock monster with 0 ATK from your Deck. You can only use this effect of \"Crystal Skull\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7903368.jpg"
   ],

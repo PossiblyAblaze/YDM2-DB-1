@@ -3,7 +3,7 @@
   "name": "Labrynth Barrage",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When you activate a Set Normal Trap Card, except \"Labrynth Barrage\": This card\u0027s effect becomes that Normal Trap Card\u0027s effect when that card is activated, also your opponent takes no damage from your card effects until the end of their next turn after this card resolves.",
+  "text": "When you activate a Set Normal Trap Card, except \"Labrynth Barrage\": This effect becomes that Normal Trap\u0027s effect when that card is activated, also until the end of your opponent\u0027s next turn after this card resolves, your opponent takes no effect damage from your card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68779682.jpg"
   ],

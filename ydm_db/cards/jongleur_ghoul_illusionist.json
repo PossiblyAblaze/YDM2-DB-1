@@ -1,0 +1,21 @@
+{
+  "id": 47894537,
+  "name": "Jongleur-Ghoul Illusionist",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\u0027\u0027A captivating street performer, who\u0027ll catch you off guard with his song and dance and hocus pocus attacks. Once his eyes start spinning, danger is impending, so make a run for it!\u0027\u0027",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/47894537.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Illusion",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}
