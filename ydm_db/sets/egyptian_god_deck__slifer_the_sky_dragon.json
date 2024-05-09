@@ -1,11 +1,10 @@
 {
   "name": "Egyptian God Deck: Slifer the Sky Dragon",
   "code": "EGS1",
-  "type": "",
-  "date": "",
-  "image": "",
-  "pull_type": "distribution",
-  "distribution": "",
+  "type": "Starter Deck",
+  "date": "18-6-2021",
+  "image": "https://ms.yugipedia.com//thumb/1/12/EGS1-DeckEN.png/257px-EGS1-DeckEN.png",
+  "pull_type": "full",
   "cards": [
     {
       "id": 10000020,
