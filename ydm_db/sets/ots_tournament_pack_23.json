@@ -1,171 +1,171 @@
 {
-  "name": "OTS Tournament Pack 22",
-  "code": "OP22",
+  "name": "OTS Tournament Pack 23",
+  "code": "OP23",
   "type": "OTS Tournament Pack",
-  "date": "19-07-23",
-  "image": "https://ms.yugipedia.com//a/a9/OP22-BoosterEN.png",
+  "date": "25-10-23",
+  "image": "https://ms.yugipedia.com//3/31/OP23-BoosterEN.png",
   "pull_type": "distribution",
   "distribution": "ots_tournament_pack",
   "cards": [
     {
-      "id": 79933029,
-      "code": "OP22-EN001",
+      "id": 35405755,
+      "code": "OP23-EN001",
       "rarity": "Ultimate Rare",
       "image_index": 0
     },
     {
-      "id": 44362883,
-      "code": "OP22-EN002",
+      "id": 98045062,
+      "code": "OP23-EN002",
       "rarity": "Ultimate Rare",
       "image_index": 0
     },
     {
-      "id": 35269904,
-      "code": "OP22-EN003",
+      "id": 92714517,
+      "code": "OP23-EN003",
       "rarity": "Ultimate Rare",
       "image_index": 0
     },
     {
-      "id": 88686573,
-      "code": "OP22-EN004",
+      "id": 74018812,
+      "code": "OP23-EN004",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 92729410,
-      "code": "OP22-EN005",
+      "id": 2511,
+      "code": "OP23-EN005",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 29479265,
-      "code": "OP22-EN006",
+      "id": 83334932,
+      "code": "OP23-EN006",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 88760522,
-      "code": "OP22-EN007",
+      "id": 41443249,
+      "code": "OP23-EN007",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 21570001,
-      "code": "OP22-EN008",
+      "id": 99937842,
+      "code": "OP23-EN008",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 18973184,
-      "code": "OP22-EN009",
+      "id": 50750868,
+      "code": "OP23-EN009",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 66712905,
-      "code": "OP22-EN010",
+      "id": 61292243,
+      "code": "OP23-EN010",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 82105704,
-      "code": "OP22-EN011",
+      "id": 34717238,
+      "code": "OP23-EN011",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 897409,
-      "code": "OP22-EN012",
+      "id": 92428405,
+      "code": "OP23-EN012",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 55749927,
-      "code": "OP22-EN013",
+      "id": 7336745,
+      "code": "OP23-EN013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24508238,
+      "code": "OP23-EN014",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 57108202,
-      "code": "OP22-EN014",
+      "id": 402568,
+      "code": "OP23-EN015",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 88095331,
-      "code": "OP22-EN015",
+      "id": 96227613,
+      "code": "OP23-EN016",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 47120245,
-      "code": "OP22-EN016",
+      "id": 22211622,
+      "code": "OP23-EN017",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 57624336,
-      "code": "OP22-EN017",
+      "id": 69610326,
+      "code": "OP23-EN018",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 68084557,
-      "code": "OP22-EN018",
+      "id": 48633301,
+      "code": "OP23-EN019",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 77656797,
-      "code": "OP22-EN019",
+      "id": 62405028,
+      "code": "OP23-EN020",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 53701457,
-      "code": "OP22-EN020",
+      "id": 2772236,
+      "code": "OP23-EN021",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 35537860,
-      "code": "OP22-EN021",
+      "id": 90953320,
+      "code": "OP23-EN022",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 61032879,
-      "code": "OP22-EN022",
+      "id": 53129443,
+      "code": "OP23-EN023",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 32441317,
-      "code": "OP22-EN023",
+      "id": 11264180,
+      "code": "OP23-EN024",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 5338223,
-      "code": "OP22-EN024",
+      "id": 73055622,
+      "code": "OP23-EN025",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 94016752,
-      "code": "OP22-EN025",
+      "id": 24050692,
+      "code": "OP23-EN026",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 82738008,
-      "code": "OP22-EN026",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 23516703,
-      "code": "OP22-EN027",
+      "id": 76641981,
+      "code": "OP23-EN027",
       "rarity": "Common",
       "image_index": 0
     }
