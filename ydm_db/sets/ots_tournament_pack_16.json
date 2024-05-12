@@ -1,11 +1,11 @@
 {
   "name": "OTS Tournament Pack 16",
   "code": "OP16",
-  "type": "",
-  "date": "",
-  "image": "",
+  "type": "OTS Tournament Pack",
+  "date": "10-06-2021",
+  "image": "https://ygoprodeck.com/pics_sets/OP16.jpg",
   "pull_type": "distribution",
-  "distribution": "",
+  "distribution": "ots_tournament_pack",
   "cards": [
     {
       "id": 70095154,
