@@ -2,7 +2,7 @@
   "name": "60_card_set_with_quarter_century",
   "pulls": [
     {
-      "weight": 63,
+      "weight": 126,
       "entries": [
         {
           "count": 6,
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "weight": 8,
+      "weight": 16,
       "entries": [
         {
           "count": 6,
@@ -31,6 +31,23 @@
           "count": 1,
           "rarities": [
             "Ultra Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 2,
+      "entries": [
+        {
+          "count": 6,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Collector\u0027s Rare"
           ]
         }
       ]
