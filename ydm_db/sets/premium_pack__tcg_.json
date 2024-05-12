@@ -1,11 +1,11 @@
 {
   "name": "Premium Pack (TCG)",
   "code": "PP01",
-  "type": "",
-  "date": "",
-  "image": "",
+  "type": "Booster Pack",
+  "date": "26-7-2007",
+  "image": "https://ms.yugipedia.com//c/c0/PP01-BoosterEN.jpg",
   "pull_type": "distribution",
-  "distribution": "",
+  "distribution": "premium_pack",
   "cards": [
     {
       "id": 30208479,
