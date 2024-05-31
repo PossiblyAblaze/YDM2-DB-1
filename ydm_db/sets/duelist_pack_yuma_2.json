@@ -1,0 +1,161 @@
+{
+  "name": "Duelist Pack: Yuma 2",
+  "code": "DPY2",
+  "type": "Duelist Pack",
+  "date": "9-21-2013",
+  "image": "https://static.wikia.nocookie.net/yugioh/images/0/00/DP14-BoosterJP.png/revision/latest?cb=20130901102407",
+  "pull_type": "distribution",
+  "distribution": "duelist_pack",
+  "cards": [
+    {
+      "id": 62476815,
+      "code": "DPY2-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62476815,
+      "code": "DPY2-002",
+      "rarity": "Normal Pararellel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39695323,
+      "code": "DPY2-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56105047,
+      "code": "DPY2-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19667590,
+      "code": "DPY2-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2948263,
+      "code": "DPY2-006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83274244,
+      "code": "DPY2-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19700943,
+      "code": "DPY2-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57996334,
+      "code": "DPY2-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57996334,
+      "code": "DPY2-010",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39432962,
+      "code": "DPY2-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75421661,
+      "code": "DPY2-012",
+      "rarity": "Ulra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1826676,
+      "code": "DPY2-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38210374,
+      "code": "DPY2-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38210374,
+      "code": "DPY2-015",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64605089,
+      "code": "DPY2-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1003028,
+      "code": "DPY2-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72355441,
+      "code": "DPY2-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15561463,
+      "code": "DPY2-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60645181,
+      "code": "DPY2-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97896503,
+      "code": "DPY2-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84013238,
+      "code": "DPY2-022",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 387282,
+      "code": "DPY2-023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82593786,
+      "code": "DPY2-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53582587,
+      "code": "DPY2-025",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

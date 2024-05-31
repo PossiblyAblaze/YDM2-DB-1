@@ -1,0 +1,185 @@
+{
+  "name": "Duelist Pack: Kite Tenjo",
+  "code": "DPKT",
+  "type": "Duelist Pack",
+  "date": "9-15-2012",
+  "image": "https://ms.yugipedia.com//8/8b/DP13-BoosterKR.png",
+  "pull_type": "distribution",
+  "distribution": "duelist_pack",
+  "cards": [
+    {
+      "id": 93717133,
+      "code": "DPKT-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29116732,
+      "code": "DPKT-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55501446,
+      "code": "DPKT-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28990150,
+      "code": "DPKT-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38973775,
+      "code": "DPKT-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65367484,
+      "code": "DPKT-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1362589,
+      "code": "DPKT-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38757297,
+      "code": "DPKT-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64145892,
+      "code": "DPKT-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90640901,
+      "code": "DPKT-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36834155,
+      "code": "DPKT-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63223260,
+      "code": "DPKT-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9718968,
+      "code": "DPKT-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35112613,
+      "code": "DPKT-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98555327,
+      "code": "DPKT-015",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35950025,
+      "code": "DPKT-016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46659709,
+      "code": "DPKT-017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9260791,
+      "code": "DPKT-018",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11411223,
+      "code": "DPKT-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47805931,
+      "code": "DPKT-020",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55935416,
+      "code": "DPKT-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61344030,
+      "code": "DPKT-022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9354555,
+      "code": "DPKT-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35848254,
+      "code": "DPKT-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80887714,
+      "code": "DPKT-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97433739,
+      "code": "DPKT-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60222582,
+      "code": "DPKT-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97617181,
+      "code": "DPKT-028",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9260791,
+      "code": "DPKT-029",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

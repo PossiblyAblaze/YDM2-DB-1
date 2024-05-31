@@ -1,0 +1,149 @@
+{
+  "name": "Duelist Pack: Declan Akaba",
+  "code": "DPDA",
+  "type": "Duelist Pack",
+  "date": "05-25-20016",
+  "image": "https://i.pinimg.com/736x/26/3e/92/263e92848ef5903fd151cb9736642776.jpg",
+  "pull_type": "distribution",
+  "distribution": "duelist_pack",
+  "cards": [
+    {
+      "id": 56619314,
+      "code": "DPDA-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82956492,
+      "code": "DPDA-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19808608,
+      "code": "DPDA-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72291412,
+      "code": "DPDA-004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74605254,
+      "code": "DPDA-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11609969,
+      "code": "DPDA-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45206713,
+      "code": "DPDA-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 811734,
+      "code": "DPDA-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15939229,
+      "code": "DPDA-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72648577,
+      "code": "DPDA-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74069667,
+      "code": "DPDA-011",
+      "rarity": "Suoer Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92536468,
+      "code": "DPDA-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3758046,
+      "code": "DPDA-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27873305,
+      "code": "DPDA-014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46035545,
+      "code": "DPDA-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41546,
+      "code": "DPDA-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74583607,
+      "code": "DPDA-017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37209439,
+      "code": "DPDA-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46372010,
+      "code": "DPDA-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73360025,
+      "code": "DPDA-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9765723,
+      "code": "DPDA-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10833828,
+      "code": "DPDA-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47198668,
+      "code": "DPDA-023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}
