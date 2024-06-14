@@ -1,0 +1,144 @@
+{
+  "name": "Duelist Pack: Shingo Sawatari",
+  "code": "DPSS",
+  "type": "Duelist Pack",
+  "date": "11-06-2015",
+  "image": "https://i.imgur.com/zWr82io.jpeg",
+  "pull_type": "distribution",
+  "distribution": "duelist_pack",
+  "cards": [
+    {
+      "id": 65025250,
+      "code": "DPSS-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91420254,
+      "code": "DPSS-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28630501,
+      "code": "DPSS-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92246806,
+      "code": "DPSS-004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28630501,
+      "code": "DPSS-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39853199,
+      "code": "DPSS-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49249907,
+      "code": "DPSS-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25244515,
+      "code": "DPSS-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93368494,
+      "code": "DPSS-009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27918963,
+      "code": "DPSS-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79861914,
+      "code": "DPSS-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23740893,
+      "code": "DPSS-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69838592,
+      "code": "DPSS-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62681049,
+      "code": "DPSS-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54903668,
+      "code": "DPSS-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10612222,
+      "code": "DPSS-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79636594,
+      "code": "DPSS-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79844764,
+      "code": "DPSS-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8522996,
+      "code": "DPSS-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26822796,
+      "code": "DPSS-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23689697,
+      "code": "DPSS-021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4929256,
+      "code": "DPSS-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+    }
+  ]
+}
