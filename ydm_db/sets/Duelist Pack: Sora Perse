@@ -1,0 +1,167 @@
+{
+  "name": "Duelist Pack: Sora Perse",
+  "code": "DPSP",
+  "type": "Duelist Pack",
+  "date": "6-25-2016",
+  "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/627fe721-846f-4f75-ac61-111ca00b27dd/d9c9j7a-c0b61462-5626-4ab8-86e4-66c22012ebd8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYyN2ZlNzIxLTg0NmYtNGY3NS1hYzYxLTExMWNhMDBiMjdkZFwvZDljOWo3YS1jMGI2MTQ2Mi01NjI2LTRhYjgtODZlNC02NmMyMjAxMmViZDguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Xr8NwQ9pYLolp-bUZIM9--OC2nPS2Vj1CXIviamWNFA",
+  "pull_type": "distribution",
+  "distribution": "duelist_pack",
+  "cards": [
+    {
+      "id": 3841833,
+      "code": "DPSP-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2729285,
+      "code": "DPSP-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39246582,
+      "code": "DPSP-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66457138,
+      "code": "DPSP-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65331686,
+      "code": "DPSP-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38124994,
+      "code": "DPSP-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9298235,
+      "code": "DPSP-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6142488,
+      "code": "DPSP-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72413000,
+      "code": "DPSP-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36693940,
+      "code": "DPSP-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70245411,
+      "code": "DPSP-011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11039171,
+      "code": "DPSP-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85545073,
+      "code": "DPSP-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34688023,
+      "code": "DPSP-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10383554,
+      "code": "DPSP-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57477163,
+      "code": "DPSP-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70083592,
+      "code": "DPSP-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 464362,
+      "code": "DPSP-018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80889750,
+      "code": "DPSP-019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61173621,
+      "code": "DPSP-020",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83866861,
+      "code": "DPSP-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43698897,
+      "code": "DPSP-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74416026,
+      "code": "DPSP-023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6077601,
+      "code": "DPSP-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91034681,
+      "code": "DPSP-025",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28039390,
+      "code": "DPSP-026",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}
