@@ -3,7 +3,7 @@
   "name": "Convulsion of Nature",
   "is_illegal": false,
   "is_custom": false,
-  "text": "As long as this card remains face-up on the field, both players must turn their respective Decks upside down and proceed with the current Duel.",
+  "text": "As long as this card remains face-up on the field, both players must keep the top card of their decks revealed until its drawn. When the revealed card is drawn, reveal the next top card of their respective decks and keep it revealed until its drawn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/62966332.jpg"
   ],
