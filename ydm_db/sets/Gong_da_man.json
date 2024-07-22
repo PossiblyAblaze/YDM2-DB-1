@@ -1,0 +1,119 @@
+{
+  "name": "Duelist Pack: Gong Strong",
+  "code": "DPGS",
+  "type": "Duelist Pack",
+  "date": "11-17-2009",
+  "image": "https://i.imgur.com/fK1QED3.jpeg",
+  "pull_type": "distribution",
+  "distribution": "duelist_pack",
+  "cards": [
+    {
+      "id": 85528209,
+      "code": "DPGS-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78274190,
+      "code": "DPGS-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41141943,
+      "code": "DPGS-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95500396,
+      "code": "DPGS-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3117804,
+      "code": "DPGS-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78391364,
+      "code": "DPGS-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31181711,
+      "code": "DPGS-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27978707,
+      "code": "DPGS-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3117804,
+      "code": "DPGS-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90361010,
+      "code": "DPGS-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64373401,
+      "code": "DPGS-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 494922,
+      "code": "DPGS-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9402966,
+      "code": "DPGS-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36523152,
+      "code": "DPGS-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62017867,
+      "code": "DPGS-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35800511,
+      "code": "DPGS-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87535691,
+      "code": "DPGS-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14624296,
+      "code": "DPGS-018",
+      "rarity": "Common",
+      "image_index": 
+    }
+  ]
+}
