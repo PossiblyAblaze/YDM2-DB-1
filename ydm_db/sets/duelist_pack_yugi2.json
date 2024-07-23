@@ -1,6 +1,6 @@
 {
   "name": "Duelist Pack: Yugi2",
-  "code": "DPY2",
+  "code": "DP2Y",
   "type": "Duelist Pack",
   "date": "07-22-2016",
   "image": "https://ygoprodeck.com/pics_sets/DPYG.jpg",
@@ -9,205 +9,205 @@
   "cards": [
     {
       "id": 46986414,
-      "code": "DPY2-001",
+      "code": "DP2Y-001",
       "rarity": "Rare",
       "image_index": 3
     },
     {
       "id": 70781052,
-      "code": "DPY2-002",
+      "code": "DP2Y-002",
       "rarity": "Super Rare",
       "image_index": 2
     },
     {
       "id": 25652259,
-      "code": "DPY2-003",
+      "code": "DP2Y-003",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 90876561,
-      "code": "DPY2-004",
+      "code": "DP2Y-004",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 40640057,
-      "code": "DPY2-005",
+      "code": "DP2Y-005",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 95727991,
-      "code": "DPY2-006",
+      "code": "DP2Y-006",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 78193831,
-      "code": "DPY2-007",
+      "code": "DP2Y-007",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 38033121,
-      "code": "DPY2-008",
+      "code": "DP2Y-008",
       "rarity": "Super Rare",
       "image_index": 2
     },
     {
       "id": 65240384,
-      "code": "DPY2-009",
+      "code": "DP2Y-009",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 88619463,
-      "code": "DPY2-010",
+      "code": "DP2Y-010",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 64788463,
-      "code": "DPY2-011",
+      "code": "DP2Y-011",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 41172955,
-      "code": "DPY2-012",
+      "code": "DP2Y-012",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 86445415,
-      "code": "DPY2-013",
+      "code": "DP2Y-013",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 13839120,
-      "code": "DPY2-014",
+      "code": "DP2Y-014",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 31305911,
-      "code": "DPY2-015",
+      "code": "DP2Y-015",
       "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 98502113,
-      "code": "DPY2-016",
+      "code": "DP2Y-016",
       "rarity": "Ultra Rare",
       "image_index": 1
     },
     {
       "id": 5405694,
-      "code": "DPY2-017",
+      "code": "DP2Y-017",
       "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 72302403,
-      "code": "DPY2-018",
+      "code": "DP2Y-018",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 83764719,
-      "code": "DPY2-019",
+      "code": "DP2Y-019",
       "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 24094653,
-      "code": "DPY2-020",
+      "code": "DP2Y-020",
       "rarity": "Super Rare",
       "image_index": 1
     },
     {
       "id": 5556668,
-      "code": "DPY2-021",
+      "code": "DP2Y-021",
       "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 55761792,
-      "code": "DPY2-022",
+      "code": "DP2Y-022",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 87880531,
-      "code": "DPY2-023",
+      "code": "DP2Y-023",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 87910978,
-      "code": "DPY2-024",
+      "code": "DP2Y-024",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 42664989,
-      "code": "DPY2-025",
+      "code": "DP2Y-025",
       "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 18807109,
-      "code": "DPY2-026",
+      "code": "DP2Y-026",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 44095762,
-      "code": "DPY2-027",
+      "code": "DP2Y-027",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 81210420,
-      "code": "DPY2-028",
+      "code": "DP2Y-028",
       "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 49587034,
-      "code": "DPY2-029",
+      "code": "DP2Y-029",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 60709218,
-      "code": "DPY2-030",
+      "code": "DP2Y-030",
       "rarity": "Ultra Rare",
       "image_index": 0
     },    
     {
       "id": 70168345,
-      "code": "DPY2-031",
+      "code": "DP2Y-031",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 41721210,
-      "code": "DPY2-032",
+      "code": "DP2Y-032",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 5829717,
-      "code": "DPY2-033",
+      "code": "DP2Y-033",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 13955608,
-      "code": "DPY2-034",
+      "code": "DP2Y-034",
       "rarity": "Common",
       "image_index": 0
     }
