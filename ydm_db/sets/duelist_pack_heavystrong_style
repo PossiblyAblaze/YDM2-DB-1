@@ -1,0 +1,149 @@
+{
+  "name": "Duelist Pack: Heavystrong Style",
+  "code": "DPHS",
+  "type": "Duelist Pack",
+  "date": "07-23-2016",
+  "image": "https://i.imgur.com/fK1QED3.jpeg",
+  "pull_type": "distribution",
+  "distribution": "duelist_pack",
+  "cards": [
+    {
+      "id": 3117804,
+      "code": "DPHS-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4786063,
+      "code": "DPHS-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78391364,
+      "code": "DPHS-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31181711,
+      "code": "DPHS-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3064425,
+      "code": "DPHS-005",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27978707,
+      "code": "DPHS-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90361010,
+      "code": "DPHS-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64373401,
+      "code": "DPHS-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 494922,
+      "code": "DPHS-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9402966,
+      "code": "DPHS-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36523152,
+      "code": "DPHS-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62017867,
+      "code": "DPHS-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36953371,
+      "code": "DPHS-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35800511,
+      "code": "DPHS-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87535691,
+      "code": "DPHS-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14624296,
+      "code": "DPHS-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14756848,
+      "code": "DPHS-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41141943,
+      "code": "DPHS-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85528209,
+      "code": "DPHS-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78274190,
+      "code": "DPHS-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42880485,
+      "code": "DPHS-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76471944,
+      "code": "DPHS-022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95500396,
+      "code": "DPHS-023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}
