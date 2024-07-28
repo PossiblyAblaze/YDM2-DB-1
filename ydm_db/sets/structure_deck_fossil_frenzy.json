@@ -1,0 +1,239 @@
+{
+  "name": "Structure Deck: Fossil Frenzy",
+  "code": "SDFF",
+  "type": "Structure Deck",
+  "date": "07-28-16",
+  "image": "https://ms.yugipedia.com//thumb/3/37/SDFF-DeckEN.png/257px-SDFF-DeckEN.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 84778110,
+      "code": "SDFF-EN001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10163855,
+      "code": "SDFF-EN002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23147658,
+      "code": "SDFF-EN003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42009836,
+      "code": "SDFF-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14258627,
+      "code": "SDFF-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49729312,
+      "code": "SDFF-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51987571,
+      "code": "SDFF-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44440058,
+      "code": "SDFF-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17706537,
+      "code": "SDFF-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19740112,
+      "code": "SDFF-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88696724,
+      "code": "SDFF-EN011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47606319,
+      "code": "SDFF-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72580321,
+      "code": "SDFF-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59419719,
+      "code": "SDFF-EN014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44297127,
+      "code": "SDFF-EN015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12292422,
+      "code": "SDFF-EN016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85808813,
+      "code": "SDFF-EN017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52112003,
+      "code": "SDFF-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45383307,
+      "code": "SDFF-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9989792,
+      "code": "SDFF-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14289852,
+      "code": "SDFF-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80352158,
+      "code": "SDFF-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70368879,
+      "code": "SDFF-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48976825,
+      "code": "SDFF-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96100333,
+      "code": "SDFF-EN025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97077563,
+      "code": "SDFF-EN026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17841166,
+      "code": "SDFF-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56120475,
+      "code": "SDFF-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26956670,
+      "code": "SDFF-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19254117,
+      "code": "SDFF-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20781762,
+      "code": "SDFF-EN031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1802450,
+      "code": "SDFF-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70156997,
+      "code": "SDFF-EN033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53334471,
+      "code": "SDFF-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21225115,
+      "code": "SDFF-EN035",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12015000,
+      "code": "SDFF-EN036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96897184,
+      "code": "SDFF-EN037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59531356,
+      "code": "SDFF-EN038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    
+    }
+  ]
+}
