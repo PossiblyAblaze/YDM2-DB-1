@@ -1,0 +1,185 @@
+{
+  "name": "Battles Of Legend: Amazonness Armada",
+  "code": "BLAA",
+  "type": "Duelist Pack",
+  "date": "07-23-2016",
+  "image": "https://media.discordapp.net/attachments/785828485885198387/1267625703139049554/image_2024-07-29_122459193.jpg?ex=66a977ee&is=66a8266e&hm=e276d43a4df23b0c9d0f8e047172aba8cc0467d2dd8bddffeabb8e1aa28442c9&=&format=webp&width=443&height=543",
+  "pull_type": "distribution",
+  "distribution": "duelist_pack",
+  "cards": [
+    {
+      "id": 15951532,
+      "code": "BLAA-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53162898,
+      "code": "BLAA-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31102447,
+      "code": "BLAA-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71209500,
+      "code": "BLAA-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47480070,
+      "code": "BLAA-005",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94004268,
+      "code": "BLAA-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97692972,
+      "code": "BLAA-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57312333,
+      "code": "BLAA-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 712559,
+      "code": "BLAA-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68507541,
+      "code": "BLAA-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97870394,
+      "code": "BLAA-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10979723,
+      "code": "BLAA-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29654737,
+      "code": "BLAA-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79965360,
+      "code": "BLAA-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62480168,
+      "code": "BLAA-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36100154,
+      "code": "BLAA-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67987611,
+      "code": "BLAA-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25396150,
+      "code": "BLAA-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5438492,
+      "code": "BLAA-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95281259,
+      "code": "BLAA-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58477767,
+      "code": "BLAA-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68507541,
+      "code": "BLAA-022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24087580,
+      "code": "BLAA-023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4591250,
+      "code": "BLAA-024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24094653,
+      "code": "BLAA-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80193355,
+      "code": "BLAA-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32807846,
+      "code": "BLAA-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83407038,
+      "code": "BLAA-028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5833312,
+      "code": "BLAA-029",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}
