@@ -1,0 +1,227 @@
+{
+  "name": "Battles Of Legends: Beyond Galaxies",
+  "code": "BLBG",
+  "type": "Duelist Pack",
+  "date": "08-17-2017",
+  "image": "https://cdn.discordapp.com/attachments/1186003203087667262/1267518992302608384/ernesto-de-la-cruz-kaito-fanart.jpg?ex=66a9148d&is=66a7c30d&hm=0d3927f9145df2a8e516b5e6a3ae0b7d8ee6915a8cdae46a250379cf59b66252&",
+  "pull_type": "distribution",
+  "distribution": "duelist_pack",
+  "cards": [
+    {
+      "id": 99397762,
+      "code": "BLBG-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81974607,
+      "code": "BLBG-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79094383,
+      "code": "BLBG-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98905,
+      "code": "BLBG-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21999001,
+      "code": "BLBG-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58383100,
+      "code": "BLBG-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18963306,
+      "code": "BLBG-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12632096,
+      "code": "BLBG-008",
+      "rarity": "Suoer Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2530830,
+      "code": "BLBG-009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47882565,
+      "code": "BLBG-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63992027,
+      "code": "BLBG-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46659709,
+      "code": "BLBG-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46659709,
+      "code": "BLBG-013",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98555327,
+      "code": "BLBG-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71799173,
+      "code": "BLBG-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9260791,
+      "code": "BLBG-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93717133,
+      "code": "BLBG-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35950025,
+      "code": "BLBG-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35848254,
+      "code": "BLBG-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72044448,
+      "code": "BLBG-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60222582,
+      "code": "BLBG-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52340274,
+      "code": "BLBG-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57734012,
+      "code": "BLBG-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59650656,
+      "code": "BLBG-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8038143,
+      "code": "BLBG-025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }    
+    {
+      "id": 8038143,
+      "code": "BLBG-026",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+    {
+      "id": 63767246,
+      "code": "BLBG-027",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+    {
+      "id": 58820923,
+      "code": "BLBG-029",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+    {
+      "id": 88177324,
+      "code": "BLBG-030",
+      "rarity": "Common",
+      "image_index": 0
+    }
+    {
+      "id": 68396121,
+      "code": "BLBG-031",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+    {
+      "id": 39030163,
+      "code": "BLBG-031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+    {
+      "id": 31801517,
+      "code": "BLBG-032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+    {
+      "id": 9354555,
+      "code": "BLBG-033",
+      "rarity": "Common",
+      "image_index": 0
+    }
+    {
+      "id": 98263709,
+      "code": "BLBG-033",
+      "rarity": "Common",
+      "image_index": 0
+    }
+    {
+      "id": 89132148,
+      "code": "BLBG-033",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+    {
+      "id": 55168550,
+      "code": "BLBG-034",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
