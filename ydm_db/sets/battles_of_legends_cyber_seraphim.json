@@ -1,0 +1,390 @@
+{
+  "name": "Battles Of Legends: Cyber Seraphim",
+  "code": "BLCS",
+  "type": "60 Card Set",
+  "date": "08-12-2016",
+  "image": "https://cdn.discordapp.com/attachments/1243932673509036113/1272552803377614858/33g3g.jpg?ex=66bb64a7&is=66ba1327&hm=7393ecb942eb4ed071d284c6e5ace7055d38ee5c836c90705cb72f3a7a4b8518&",
+  "pull_type": "distribution",
+  "distribution": "60_card_set",
+  "cards": [
+    {
+      "id": 77235086,
+      "code": "BLCS-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77235086,
+      "code": "BLCS-002",
+      "rarity": "Ultra",
+      "image_index": 0
+    },
+    {
+      "id": 77235086,
+      "code": "BLCS-003",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39618799,
+      "code": "BLCS-004",
+      "rarity": "Ulra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40529384,
+      "code": "BLCS-005",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13708425,
+      "code": "BLCS-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3629090,
+      "code": "BLCS-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3629090,
+      "code": "BLCS-008",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76103404,
+      "code": "BLCS-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78316184,
+      "code": "BLCS-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78316184,
+      "code": "BLCS-011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99427357,
+      "code": "BLCS-012",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99427357,
+      "code": "BLCS-013",
+      "rarity": "Collectors Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91668401,
+      "code": "BLCS-014",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91668401,
+      "code": "BLCS-015",
+      "rarity": "Collectors Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28053106,
+      "code": "BLCS-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95658967,
+      "code": "BLCS-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11398951,
+      "code": "BLCS-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11398951,
+      "code": "BLCS-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39996157,
+      "code": "BLCS-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39996157,
+      "code": "BLCS-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53303460,
+      "code": "BLCS-022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53303460,
+      "code": "BLCS-023",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80701178,
+      "code": "BLCS-024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80701178,
+      "code": "BLCS-025",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },  
+    {
+      "id": 18474999,
+      "code": "BLCS-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18474999,
+      "code": "BLCS-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82085295,
+      "code": "BLCS-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82085295,
+      "code": "BLCS-029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65877963,
+      "code": "BLCS-030",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65877963,
+      "code": "BLCS-031",
+      "rarity": "Collectors Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86758915,
+      "code": "BLCS-032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86758915,
+      "code": "BLCS-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96915510,
+      "code": "BLCS-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96915510,
+      "code": "BLCS-035",
+        "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13482262,
+      "code": "BLCS-036",
+        "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13482262,
+      "code": "BLCS-037",
+        "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8903700,
+      "code": "BLCS-038",
+        "rarity": "Rare",
+      "image_index": 0
+    },
+
+    {
+      "id": 8903700,
+      "code": "BLCS-039",
+        "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8903700,
+      "code": "BLCS-040",
+        "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30492798,
+      "code": "BLCS-041",
+        "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30492798,
+      "code": "BLCS-042",
+        "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34358408,
+      "code": "BLCS-043",
+        "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1353770,
+      "code": "BLCS-044",
+        "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64734921,
+      "code": "BLCS-045",
+        "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97750534,
+      "code": "BLCS-046",
+        "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39552864,
+      "code": "BLCS-046",
+        "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55794644,
+      "code": "BLCS-047",
+        "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87148330,
+      "code": "BLCS-048",
+        "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34334692,
+      "code": "BLCS-049",
+        "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25796442,
+      "code": "BLCS-050",
+        "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88301833,
+      "code": "BLCS-050",
+        "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65450690,
+      "code": "BLCS-051",
+        "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96729612,
+      "code": "BLCS-052",
+        "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13048472,
+      "code": "BLCS-053",
+        "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79606837,
+      "code": "BLCS-054",
+        "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23401839,
+      "code": "BLCS-055",
+        "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95492061,
+      "code": "BLCS-056",
+        "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57617178,
+      "code": "BLCS-056",
+        "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36350300,
+      "code": "BLCS-057",
+        "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99054885,
+      "code": "BLCS-058",
+        "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33145233,
+      "code": "BLCS-059",
+        "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46052429,
+      "code": "BLCS-060",
+        "rarity": "Common",
+      "image_index": 0
+    },
+  ]
+}
