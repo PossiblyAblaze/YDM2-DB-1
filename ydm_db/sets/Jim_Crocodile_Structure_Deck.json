@@ -1,0 +1,268 @@
+{
+  "name": "Jim Crocodile Structure Deck",
+  "code": "SDJC",
+  "type": "Structure Deck",
+  "date": "12-07-2018",
+  "image": "https://i.imgur.com/J1ahzNU.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 14258627,
+      "code": "SDJC-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15545291,
+      "code": "SDJC-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23147658,
+      "code": "SDJC-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96897184,
+      "code": "SDJC-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94689206,
+      "code": "SDJC-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71544954,
+      "code": "SDJC-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79080761,
+      "code": "SDJC-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95816395,
+      "code": "SDJC-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47606319,
+      "code": "SDJC-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17706537,
+      "code": "SDJC-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42009836,
+      "code": "SDJC-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19740112,
+      "code": "SDJC-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48115277,
+      "code": "SDJC-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10163855,
+      "code": "SDJC-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72580321,
+      "code": "SDJC-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84778110,
+      "code": "SDJC-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13532663,
+      "code": "SDJC-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42143067,
+      "code": "SDJC-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52323207,
+      "code": "SDJC-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51987571,
+      "code": "SDJC-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12015000,
+      "code": "SDJC-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88696724,
+      "code": "SDJC-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44297127,
+      "code": "SDJC-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34959756,
+      "code": "SDJC-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83715234,
+      "code": "SDJC-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28120197,
+      "code": "SDJC-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80352158,
+      "code": "SDJC-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 06343408,
+      "code": "SDJC-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67169062,
+      "code": "SDJC-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70368879,
+      "code": "SDJC-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43898403,
+      "code": "SDJC-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43959432,
+      "code": "SDJC-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 03129635,
+      "code": "SDJC-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49514333,
+      "code": "SDJC-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23626223,
+      "code": "SDJC-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20781762,
+      "code": "SDJC-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17841166,
+      "code": "SDJC-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26956670,
+      "code": "SDJC-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97077563,
+      "code": "SDJC-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96100333,
+      "code": "SDJC-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59419719,
+      "code": "SDJC-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59531356,
+      "code": "SDJC-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70156997,
+      "code": "SDJC-043",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
