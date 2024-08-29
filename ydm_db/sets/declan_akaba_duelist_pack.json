@@ -145,5 +145,29 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     }
+    {
+      "id": 79559912,
+      "code": "DPDA-024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16006416,
+      "code": "DPDA-025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6766208,
+      "code": "DPDA-026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33334269,
+      "code": "DPDA-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
   ]
 }
