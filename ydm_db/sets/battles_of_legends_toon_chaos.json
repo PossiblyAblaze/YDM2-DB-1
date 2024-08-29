@@ -5,7 +5,7 @@
   "date": "08-16-2016",
   "image": "https://i.ibb.co/yBdb81x/Toon-Chaos.jpg",
   "pull_type": "distribution",
-  "distribution": "60_card_set",
+  "distribution": "60_card_set_with_collector_s_rare",
   "cards": [
     {
       "id": 53183600,
@@ -22,31 +22,31 @@
     {
       "id": 91842653,
       "code": "BLTC-003",
-      "rarity": "Starlight Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 91842653,
       "code": "BLTC-004",
-      "rarity": "Rare",
+      "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 65458948,
       "code": "BLTC-005",
-      "rarity": "Rare",
+      "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 65458948,
       "code": "BLTC-006",
-      "rarity": "Common",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 15259703,
       "code": "BLTC-007",
-      "rarity": "Common",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -58,7 +58,7 @@
     {
       "id": 42386471,
       "code": "BLTC-009",
-      "rarity": "Common",
+      "rarity": "Ultra Common",
       "image_index": 0
     },
     {
@@ -70,19 +70,19 @@
     {
       "id": 79875176,
       "code": "BLTC-011",
-      "rarity": "Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 79875176,
       "code": "BLTC-012",
-      "rarity": "Common",
+      "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 89997728,
       "code": "BLTC-013",
-      "rarity": "Collectors Rare",
+      "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -106,7 +106,7 @@
     {
       "id": 6958551,
       "code": "BLTC-017",
-      "rarity": "Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -160,49 +160,49 @@
     {
       "id": 70560957,
       "code": "BLTC-026",
-      "rarity": "Common",
+        "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 83629030,
       "code": "BLTC-027",
-      "rarity": "Common",
+      "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 83629030,
       "code": "BLTC-028",
-      "rarity": "Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 28112535,
       "code": "BLTC-029",
-      "rarity": "Common",
+      "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 7171149,
       "code": "BLTC-030",
-      "rarity": "Common",
+      "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 31733941,
       "code": "BLTC-031",
-      "rarity": "Rare",
+      "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 31733941,
       "code": "BLTC-032",
-      "rarity": "Common",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 21296502,
       "code": "BLTC-033",
-      "rarity": "Common",
+      "rarity": "Super Rare",
       "image_index": 0
     },
     {
@@ -220,7 +220,7 @@
     {
       "id": 28711704,
       "code": "BLTC-036",
-        "rarity": "Collectors Rare",
+        "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -232,26 +232,26 @@
     {
       "id": 88032456,
       "code": "BLTC-038",
-        "rarity": "Rare",
+        "rarity": "Ultra Rare",
       "image_index": 0
     },
 
     {
       "id": 41426869,
       "code": "BLTC-039",
-        "rarity": "Common",
+        "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 41426869,
       "code": "BLTC-040",
-        "rarity": "Rare",
+        "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 63519819,
       "code": "BLTC-041",
-        "rarity": "Common",
+        "rarity": "Super Rare",
       "image_index": 0
     },
     {
@@ -263,7 +263,7 @@
     {
       "id": 64631466,
       "code": "BLTC-043",
-        "rarity": "Common",
+        "rarity": "Super Rare",
       "image_index": 0
     },
     {
@@ -275,7 +275,7 @@
     {
       "id": 96729612,
       "code": "BLTC-045",
-        "rarity": "Common",
+        "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -287,7 +287,7 @@
     {
       "id": 13048472,
       "code": "BLTC-046",
-        "rarity": "Common",
+        "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -317,7 +317,7 @@
     {
       "id": 91500017,
       "code": "BLTC-050",
-        "rarity": "Collectors Rare",
+        "rarity": "Collector's Rare",
       "image_index": 0
     },
     {
@@ -347,19 +347,19 @@
     {
       "id": 15173384,
       "code": "BLTC-055",
-        "rarity": "Rare",
+        "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 15173384,
       "code": "BLTC-056",
-        "rarity": "Common",
+        "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 89785779,
       "code": "BLTC-056",
-        "rarity": "Common",
+        "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -377,13 +377,13 @@
     {
       "id": 82199284,
       "code": "BLTC-059",
-        "rarity": "Common",
+        "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 36350300,
       "code": "BLTC-060",
-        "rarity": "Common",
+        "rarity": "Super Rare",
       "image_index": 0
     }
   ]
