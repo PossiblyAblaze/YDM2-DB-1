@@ -5,7 +5,7 @@
   "date": "09-10-2017",
   "image": "https://i.ibb.co/B6jFNfq/Heavenly-Hanafuda.jpg",
   "pull_type": "distribution",
-  "distribution": "60_card_set_with_collector_s_rare",
+  "distribution": "60_card_set",
   "cards": [
     {
       "id": 42291297,
@@ -40,7 +40,7 @@
     {
       "id": 16802689,
       "code": "BLHH-006",
-      "rarity": "Secret Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -64,7 +64,7 @@
     {
       "id": 16024176,
       "code": "BLHH-010",
-      "rarity": "Secret Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -76,7 +76,7 @@
     {
       "id": 54135423,
       "code": "BLHH-012",
-      "rarity": "Super Rare",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -88,7 +88,7 @@
     {
       "id": 89818984,
       "code": "BLHH-014",
-      "rarity": "Secret Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -112,7 +112,7 @@
     {
       "id": 43413875,
       "code": "BLHH-018",
-      "rarity": "Secret Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -124,7 +124,7 @@
     {
       "id": 3966653,
       "code": "BLHH-020",
-      "rarity": "Secret Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -136,13 +136,13 @@
     {
       "id": 94388754,
       "code": "BLHH-022",
-      "rarity": "Secret Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 21772453,
       "code": "BLHH-023",
-      "rarity": "Secret Rare",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -154,7 +154,7 @@
     {
       "id": 57261568,
       "code": "BLHH-025",
-      "rarity": "Secret Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },  
     {
@@ -166,7 +166,7 @@
     {
       "id": 5489987,
       "code": "BLHH-027",
-      "rarity": "Secret Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -178,25 +178,25 @@
     {
       "id": 87460579,
       "code": "BLHH-029",
-      "rarity": "Secret Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 87460579,
       "code": "BLHH-030",
-      "rarity": "Collector's Rare",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 33541430,
       "code": "BLHH-031",
-      "rarity": "Collector's Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 33541430,
       "code": "BLHH-032",
-      "rarity": "Ultra Rare",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -208,7 +208,7 @@
     {
       "id": 30382214,
       "code": "BLHH-034",
-      "rarity": "Ultra Rare",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -245,7 +245,7 @@
     {
       "id": 78785392,
       "code": "BLHH-040",
-        "rarity": "Secret Rare",
+        "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -257,7 +257,7 @@
     {
       "id": 16780318,
       "code": "BLHH-042",
-        "rarity": "Secret Rare",
+        "rarity": "Ultra Rare",
       "image_index": 0
     }
   ]
