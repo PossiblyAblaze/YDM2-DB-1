@@ -5,18 +5,18 @@
   "date": "09-10-2017",
   "image": "https://i.ibb.co/WDT7X78/Relics-Of-Wars.png",
   "pull_type": "distribution",
-  "distribution": "60_card_set_with_Secret_and_collector_s_rare",
+  "distribution": "battles_of_legend__armageddon",
   "cards": [
     {
       "id": 10509340,
       "code": "BLRW-001",
-      "rarity": "Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 10509340,
       "code": "BLRW-002",
-      "rarity": "Super Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -28,73 +28,73 @@
     {
       "id": 83104731,
       "code": "BLRW-004",
-      "rarity": "Super Rare",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
       "id": 56094445,
       "code": "BLRW-005",
-      "rarity": "Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 56094445,
       "code": "BLRW-006",
-      "rarity": "Super Rare",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
       "id": 31557782,
       "code": "BLRW-007",
-      "rarity": "Rare",
+      "rarity": "Ultre Rare",
       "image_index": 0
     },
     {
       "id": 67829249,
       "code": "BLRW-008",
-      "rarity": "Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 92001300,
       "code": "BLRW-009",
-      "rarity": "Super Rare",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
       "id": 92001300,
       "code": "BLRW-010",
-      "rarity": "Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 30435145,
       "code": "BLRW-011",
-      "rarity": "Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 1953925,
       "code": "BLRW-012",
-      "rarity": "Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 4446672,
       "code": "BLRW-013",
-      "rarity": "Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 40830387,
       "code": "BLRW-014",
-      "rarity": "Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 86321248,
       "code": "BLRW-015",
-      "rarity": "Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -112,25 +112,25 @@
     {
       "id": 37457534,
       "code": "BLRW-018",
-      "rarity": "Super Rare",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
       "id": 59811955,
       "code": "BLRW-019",
-      "rarity": "Super Rare",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
       "id": 39303359,
       "code": "BLRW-020",
-      "rarity": "Super Rare",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
       "id": 39303359,
       "code": "BLRW-021",
-      "rarity": "Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -154,13 +154,13 @@
     {
       "id": 60953949,
       "code": "BLRW-025",
-      "rarity": "Super Rare",
+      "rarity": "Secret Rare",
       "image_index": 0
     },  
     {
       "id": 7171149,
       "code": "BLRW-026",
-        "rarity": "Collector's Rare",
+        "rarity": "10000 Secret Rare",
       "image_index": 0
     },
     {
@@ -172,19 +172,19 @@
     {
       "id": 87182127,
       "code": "BLRW-028",
-      "rarity": "Super Rare",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
       "id": 42878636,
       "code": "BLRW-029",
-      "rarity": "Super Rare",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
       "id": 42878636,
       "code": "BLRW-030",
-      "rarity": "Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -196,7 +196,7 @@
     {
       "id": 47482043,
       "code": "BLRW-032",
-      "rarity": "Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -214,7 +214,7 @@
     {
       "id": 51788412,
       "code": "BLRW-035",
-        "rarity": "Collector's Rare",
+        "rarity": "10000 Secret Rare",
       "image_index": 0
     },
     {
@@ -226,32 +226,32 @@
     {
       "id": 44052074,
       "code": "BLRW-037",
-        "rarity": "Rare",
+        "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 70147689,
       "code": "BLRW-038",
-        "rarity": "Super Rare",
+        "rarity": "Secret Rare",
       "image_index": 0
     },
 
     {
       "id": 70147689,
       "code": "BLRW-039",
-        "rarity": "Rare",
+        "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 18486927,
       "code": "BLRW-040",
-        "rarity": "Rare",
+        "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 81269231,
       "code": "BLRW-041",
-        "rarity": "Rare",
+        "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -275,7 +275,7 @@
     {
       "id": 17663375,
       "code": "BLRW-045",
-        "rarity": "Rare",
+        "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -287,19 +287,19 @@
     {
       "id": 95735217,
       "code": "BLRW-047",
-        "rarity": "Super Rare",
+        "rarity": "Secret Rare",
       "image_index": 0
     },
     {
       "id": 1278431,
       "code": "BLRW-048",
-        "rarity": "Super Rare",
+        "rarity": "Secret Rare",
       "image_index": 0
     },
     {
       "id": 1278431,
       "code": "BLRW-049",
-        "rarity": "Rare",
+        "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -335,13 +335,13 @@
     {
       "id": 4064925,
       "code": "BLRW-055",
-        "rarity": "Super Rare",
+        "rarity": "Secret Rare",
       "image_index": 0
     },
     {
       "id": 64603182,
       "code": "BLRW-056",
-          "rarity": "Collector's Rare",
+          "rarity": "10000 Secret Rare",
       "image_index": 0
     },
     {
@@ -365,7 +365,7 @@
     {
       "id": 27483935,
       "code": "BLRW-060",
-        "rarity": "Super Rare",
+        "rarity": "Secret Rare",
       "image_index": 0
     }
   ]
