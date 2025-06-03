@@ -5,7 +5,7 @@
   "date": "09-10-2017",
   "image": "https://i.ibb.co/WDT7X78/Relics-Of-Wars.png",
   "pull_type": "distribution",
-  "distribution": "60_card_set_with_Secret_and_1000_secret_rare",
+  "distribution": "battles_of_legend__armageddon",
   "cards": [
     {
       "id": 10509340,
@@ -16,7 +16,7 @@
     {
       "id": 10509340,
       "code": "BLRW-002",
-      "rarity": "Ultra Rare",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
@@ -100,7 +100,7 @@
     {
       "id": 86321248,
       "code": "BLRW-016",
-      "rarity": "Ultra Rare",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
@@ -196,7 +196,7 @@
     {
       "id": 47482043,
       "code": "BLRW-032",
-      "rarity": "Ultra Rare",
+      "rarity": "secret Rare",
       "image_index": 0
     },
     {
@@ -226,7 +226,7 @@
     {
       "id": 44052074,
       "code": "BLRW-037",
-        "rarity": "Ultra Rare",
+        "rarity": "Secret Rare",
       "image_index": 0
     },
     {
@@ -235,7 +235,6 @@
         "rarity": "Secret Rare",
       "image_index": 0
     },
-
     {
       "id": 70147689,
       "code": "BLRW-039",
@@ -251,7 +250,7 @@
     {
       "id": 81269231,
       "code": "BLRW-041",
-        "rarity": "Ultra Rare",
+        "rarity": "1000 Secret Rare",
       "image_index": 0
     },
     {
@@ -275,7 +274,7 @@
     {
       "id": 17663375,
       "code": "BLRW-045",
-        "rarity": "Ultra Rare",
+        "rarity": "Secret Rare",
       "image_index": 0
     },
     {
@@ -341,13 +340,13 @@
     {
       "id": 64603182,
       "code": "BLRW-056",
-          "rarity": "10000 Secret Rare",
+          "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
       "id": 64603182,
       "code": "BLRW-057",
-        "rarity": "Ultra Rare",
+        "rarity": "Secret Rare",
       "image_index": 0
     },
     {
